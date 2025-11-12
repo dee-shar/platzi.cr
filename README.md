@@ -1,5 +1,5 @@
 # platzi.cr
-Web-API for fakeapi.platzi.com the perfect API solution for your e-commerce or shopping website prototype.
+Web-API for [fakeapi.platzi.com](https://fakeapi.platzi.com/en) the perfect API solution for your e-commerce or shopping website prototype.
 
 ## Example
 ```cr
